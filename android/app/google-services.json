@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "760802814968",
+    "firebase_url": "https://navigoon-5f228-default-rtdb.firebaseio.com",
+    "project_id": "navigoon-5f228",
+    "storage_bucket": "navigoon-5f228.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760802814968:android:c25214f567e409cf3f440d",
+        "android_client_info": {
+          "package_name": "com.example.navigo_on"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPdpXZqLmNIN8JlyuCKtIJuKTxtoQmAz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760802814968:android:0946a508850f77c43f440d",
+        "android_client_info": {
+          "package_name": "com.example.navigo_on_drivers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPdpXZqLmNIN8JlyuCKtIJuKTxtoQmAz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
