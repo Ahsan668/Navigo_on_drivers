@@ -53,8 +53,7 @@ To run this project locally, follow these steps:
 
 ## Screenshots
 
-![Sign Up](screenshots/loginacreen.png)
-![Home](screenshots/homepage.png)
+![Sign Up](screenshots/loginscreen.png)
 ![Ride Details](screenshots/profilescreen.png)
 
 ## Contributing
