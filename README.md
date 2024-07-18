@@ -23,7 +23,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/navigo_on_drivers.git
+    git clone https://github.com/ahsan668/navigo_on_drivers.git
     cd navigo_on_drivers
     ```
 
